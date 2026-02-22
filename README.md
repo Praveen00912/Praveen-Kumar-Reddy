@@ -1,15 +1,15 @@
 # Praveen-Kumar-Reddy
 Portfolio
-<h1 align="center">Hi 👋, I'm Muddapu Akash</h1>
+<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
 <h3 align="center">I am an enthusiastic coder driven by an unyielding passion for programming.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muddapuakash&label=Profile%20views&color=0e75b6&style=flat" alt="muddapuakash" /> </p>
 
-- 🌱 I’m currently learning *DSA With Python,Frameworks,FullStack with Java*
+- 🌱 I’m currently learning *DSA With Java,Python,Frameworks,FullStack with Java*
 
-- 📫 How to reach me *akashmuddapu@gmail.com*
+- 📫 How to reach me *praveenkumarreddy2627@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yaWAa1GyjLKNjTHbEC4DtbDRsPHhAGKY/view?usp=sharing]
 
