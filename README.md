@@ -36,6 +36,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/praveenreddy">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<a href="https://www.instagram.com/praveen00912/?hl=en">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 </p>
 
