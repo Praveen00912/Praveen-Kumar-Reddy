@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Praveen+Kumar+Reddy;Aspiring+Software+Engineer;Java+Developer;Data+Structures+Learner;Building+My+Future+With+Code+🚀"/>
 </p>
 
------
+----
 
 <h3 align="center">💻 Aspiring Software Engineer | Java Developer | Problem Solver</h3>
 
