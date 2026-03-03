@@ -26,8 +26,7 @@
 
 📌 Check my coding progress here:  
 👉 https://github.com/Praveen00912/PraveenJavaprograms100
-
-👉 https://leetcode.com/
+👉 https://leetcode.com/u/Praveen_Kumar78/
 
 ---
 
