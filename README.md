@@ -19,13 +19,7 @@
 - 🌱 Currently learning Data Structures and Algorithms  
 - 📊 Interested in Software Development and Data Analysis  
 - 🎯 Goal: Become a professional Software Engineer
-
-
-bnjknk
-
-78746451
-\864
-jjbhvghx
+  
 ---
 
 ### 🔥 Daily Coding Practice
