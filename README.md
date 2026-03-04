@@ -20,7 +20,8 @@
 - 📊 Interested in Software Development and Data Analysis  
 - 🎯 Goal: Become a professional Software Engineer
 
--   
+
+bnjknk
 
 ---
 
