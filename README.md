@@ -20,6 +20,7 @@
 - 📊 Interested in Software Development and Data Analysis  
 - 🎯 Goal: Become a professional Software Engineer
 - sdgisixjjashgcx
+- 7\5894612
   
 ---
 
