@@ -20,10 +20,6 @@
 - 📊 Interested in Software Development and Data Analysis  
 - 🎯 Goal: Become a professional Software Engineer
 8798451
-  7964635ftrgdhtrfuygf
-  ][poiuytre
-  opiuhgfde567yuo89i
-  55
 ---
 
 ### 🔥 Daily Coding Practice
