@@ -19,11 +19,6 @@
 - 🌱 Currently learning Data Structures and Algorithms  
 - 📊 Interested in Software Development and Data Analysis  
 - 🎯 Goal: Become a professional Software Engineer
-- 8794
-- 8468131
-- pkojhgftdrsea
-- 68465l;njhvcxdgfg
-- 8465468pkohgfdfyuioljhdfg
   
 ---
 
