@@ -20,6 +20,8 @@
 - 📊 Interested in Software Development and Data Analysis  
 - 🎯 Goal: Become a professional Software Engineer
 - w212r2ioh7edyeudbdjdo0
+- io+841
+- 74
   
 ---
 
